@@ -1,5 +1,5 @@
-My name is Trin
-I live in BKK
+- My name is Trin
+- I live in BKK
 
 ![DeTrin's github stats](https://github-readme-stats.vercel.app/api?username=trindev)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
